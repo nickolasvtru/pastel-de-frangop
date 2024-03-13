@@ -29,7 +29,7 @@ body {
 }
 
 .escola{
-    background-image: linear-gradient(#6eeeff,#0e819b);
+    background-image: linear-gradient(#6eeeff,#00c6f3);
     color:rgb(63, 63, 63);
     display: flex;
     justify-content: center;
@@ -74,7 +74,7 @@ body {
 }
 
 .rodape{
-    background-color: black;
+    background-color: rgb(247, 246, 246);
     text-align: center;
 }
 
